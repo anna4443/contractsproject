@@ -1,0 +1,64 @@
+{
+  "ugovori": [
+    {
+      "id": "1",
+      "kupac": "Petra Kranjčar",
+      "broj_ugovora": "1/2024",
+      "datum_akontacije": "2024-01-04",
+      "rok_isporuke": "2024-04-20",
+      "status": "KREIRANO"
+    },
+    {
+      "id": "2",
+      "kupac": "Franko Kasun",
+      "broj_ugovora": "2/2024",
+      "datum_akontacije": "2024-03-01",
+      "rok_isporuke": "2024-05-01",
+      "status": "ISPORUČENO"
+    },
+    {
+      "id": "3",
+      "kupac": "Stjepan Babić",
+      "broj_ugovora": "3/2024",
+      "datum_akontacije": "2024-03-03",
+      "rok_isporuke": "2024-04-17",
+      "status": "NARUČENO"
+    },
+    {
+      "id": "4",
+      "kupac": "Lara Larić",
+      "broj_ugovora": "4/2024",
+      "datum_akontacije": "2024-03-11",
+      "rok_isporuke": "2024-04-05",
+      "status": "NARUČENO"
+    },
+    {
+      "id": "5",
+      "kupac": "Maja Majić",
+      "broj_ugovora": "5/2024",
+      "datum_akontacije": "2024-03-04",
+      "rok_isporuke": "2024-04-09",
+      "status": "KREIRANO"
+    }
+  ],
+  "artikli": [
+    {
+      "id": "1",
+      "naziv": "Perilica posuđa ugradbena Electrolux EEA27200L",
+      "dobavljač": "Sancta Domenica",
+      "status": "KREIRANO"
+    },
+    {
+      "id": "2",
+      "naziv": "Napa ugradbena Gorenje TH60E3X",
+      "dobavljač": "Sancta Domenica",
+      "status": "NARUČENO"
+    },
+    {
+      "id": "3",
+      "naziv": "Ploča ugradbena kombinirana Gorenje GCE691BSC",
+      "dobavljač": "Bijela tehnika",
+      "status": "ISPORUČENO"
+    }
+  ]
+}
