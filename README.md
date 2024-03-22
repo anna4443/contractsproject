@@ -10,5 +10,6 @@ npx json-server db.json
 ```
 #### run react
 ```
+cd [project-folder]
 npm run dev
 ```
